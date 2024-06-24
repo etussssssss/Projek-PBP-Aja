@@ -1,0 +1,20 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#4CB7BE" android:alpha="85"/>
+    <corners
+        android:radius="1000dp"
+        android:topLeftRadius="0dp"
+        android:topRightRadius="200dp"
+        android:bottomRightRadius="200dp"
+        android:bottomLeftRadius="0dp"
+
+        /> <!-- Membuat bentuk menjadi bulat -->
+
+    <size
+        android:width="50dp"
+        android:height="100dp"/>
+
+    <solid android:color="#80FFFFFF"/>
+
+<!--    <solid android:color="@color/indigo100"/>-->
+    <!--    <solid android:color="@color/cyan200"/>-->
+</shape>

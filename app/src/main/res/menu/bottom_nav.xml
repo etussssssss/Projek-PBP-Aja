@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="home"
+        android:id="@+id/home"
+        android:icon="@drawable/home"
+        android:actionLayout="@layout/custommenu"
+
+        />
+    <item android:title="search"
+        android:id="@+id/search"
+        android:icon="@drawable/search"
+        android:actionLayout="@layout/custommenu"
+        />
+    <item android:title="add"
+        android:id="@+id/add"
+        android:icon="@drawable/add"
+        android:actionLayout="@layout/custommenu"
+        />
+    <item android:title="notif"
+        android:id="@+id/notif"
+        android:icon="@drawable/notification"
+        android:actionLayout="@layout/custommenu"
+        />
+    <item android:title="profil"
+        android:id="@+id/profil"
+        android:icon="@drawable/person"
+        android:actionLayout="@layout/custommenu"
+        />
+
+</menu>
